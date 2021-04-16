@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Blog Rosario</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Webflow" name="generator" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+
+
+    <link href="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6046202bbbe1984b4099dee3_met%20favicon-1.jpg"
+        rel="shortcut icon" type="image/x-icon" />
+    <link href="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6046202ec35d498ecfb50592_met%20favicon.jpg"
+        rel="apple-touch-icon" />
+</head>
+
+<body class="body">
+    <div class="section-12">
+        <div class="container w-container"><img
+                src="mi foto.jpg"
+                loading="lazy" height="64" width="64"
+            sizes="64px" alt="" class="image" />
+            <h1 class="heading">Bienvenidos a mi Espacio </h1>
+            <p class="paragraph">Hola soy rosario .A partir de ahora os explicare de que trata mi web.Me encanta el
+                mundo digital.Todo comenzo en un curso el cual fue para mi un antes y un despúes.En este blog estare
+                hablando de el maravilloso mundo del Maquillaje.
+                Os explicaré como el maquillaje se saca el mejor partido .Hay maquillajes más intensos y maquillajes màs
+                naturales,todo depende de una misma.
+            </p>
+            <a href="#email-form" class="button w-button">correo</a>
+        </div>
+    </div>
+    <div class="section-2">
+        <div class="container w-container">
+            <div class="columns-2 w-row">
+                <div class="column-18 w-col w-col-4">
+
+                    <img src="foto web ojo.jpg">
+                                          
+
+
+
+                    <h2 class="heading-2">Ojo de noche</h2>
+                    <p class="paragraph-2">El concepto de ojo ahumado se estila mucho en la noche .project that I
+                        developeEl concepto de ojo ahumado se estila mucho en la noche .
+                    </p><a href="/ojo" class="button w-button">Leer mas</a>
+                      
+                </div>
+                <div class="column-2 w-col w-col-4"><img src="foto maquillaje noche 7.jpg">
+
+
+
+                    <h2 class="heading-2">Maquillaje de noche</h2>
+                    <p class="paragraph-2">El maquillaje de noche indicado para ocasiones tendremos un maquillaje mas
+                        sofisticado .la noche podemos darle mas intensidad a la mirada .
+
+                    </p><a href="" class="button w-button">Leer mas </a>
+                </div>
+                <div class="column w-col w-col-4"><img
+                        src="foto novia 8.jpg">
+
+
+                    <h2 class="heading-2"> Maquillaje de novias </h2>
+                    <p class="paragraph-2">¡Ya está aquí la temporada de bodas! ¿Eres una de las afortunadas que te
+                        casas este año? Disfruta de tu día y, por supuesto, ¡luce radiante! El vestido y los zapatos los
+                        dejamos a tu elección, pero el maquillaje ¡es todo nuestro! Así que, una vez que tengas claro el
+                        estilo que vas a lucir, sigue nuestros consejos de maquillaje y luce un rostro .</p>
+                    <a href="" class="button deactive w-button">Leer mas</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="container-4 w-container">
+            <div class="columns-5 w-row">
+                <div class="column-11 w-col w-col-4"><img
+                        src="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886048109955063cd611_Concept%20Project%20-%204.jpg"
+                        loading="lazy" height="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 34vw, 279.984375px"
+                        srcset="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886048109955063cd611_Concept%20Project%20-%204-p-800.jpeg 800w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886048109955063cd611_Concept%20Project%20-%204-p-1080.jpeg 1080w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886048109955063cd611_Concept%20Project%20-%204.jpg 1600w"
+                        alt="" class="image-3" /></div>
+                <div class="column-10 w-col w-col-4"><img
+                        src="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788614a3f6905e6f066a3_Concept%20Project%20-%205.jpg"
+                        loading="lazy" height=""
+                        sizes="(max-width: 479px) 100vw, (max-width: 767px) 94vw, (max-width: 991px) 31vw, 255.984375px"
+                        srcset="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788614a3f6905e6f066a3_Concept%20Project%20-%205-p-800.jpeg 800w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788614a3f6905e6f066a3_Concept%20Project%20-%205-p-1080.jpeg 1080w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788614a3f6905e6f066a3_Concept%20Project%20-%205.jpg 1600w"
+                        alt="" class="image-4" /></div>
+                <div class="column-12 w-col w-col-4"><img
+                        src="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478861eca63aa7258b10ce_Concept%20Project%20-%202.jpg"
+                        loading="lazy" height="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 34vw, 279.984375px"
+                        srcset="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478861eca63aa7258b10ce_Concept%20Project%20-%202-p-800.jpeg 800w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478861eca63aa7258b10ce_Concept%20Project%20-%202-p-1080.jpeg 1080w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478861eca63aa7258b10ce_Concept%20Project%20-%202.jpg 1600w"
+                        alt="" class="image-2" /></div>
+            </div>
+        </div>
+    </div>
+    <div class="section-3">
+        <div class="container-2 w-container">
+            <div class="columns-3 w-row">
+                <div class="column-15 w-col w-col-4"><img
+                        src="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478860dcdbf0c3076d2559_Concept%20Project%20-%203.jpg"
+                        loading="lazy" height="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 34vw, 279.984375px"
+                        srcset="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478860dcdbf0c3076d2559_Concept%20Project%20-%203-p-800.jpeg 800w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478860dcdbf0c3076d2559_Concept%20Project%20-%203-p-1080.jpeg 1080w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/60478860dcdbf0c3076d2559_Concept%20Project%20-%203.jpg 1600w"
+                        alt="" class="image-5" /></div>
+                <div class="column-14 w-col w-col-4"><img
+                        src="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886181619af903776398_Concept%20Project%20-%206.jpg"
+                        loading="lazy" height="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 34vw, 279.984375px"
+                        srcset="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886181619af903776398_Concept%20Project%20-%206-p-500.jpeg 500w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886181619af903776398_Concept%20Project%20-%206-p-800.jpeg 800w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886181619af903776398_Concept%20Project%20-%206-p-1080.jpeg 1080w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/6047886181619af903776398_Concept%20Project%20-%206.jpg 1600w"
+                        alt="" class="image-6" /></div>
+                <div class="column-13 w-col w-col-4"><img
+                        src="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788603a99306802b4cb5c_Concept%20Project%20-%201.jpg"
+                        loading="lazy" height="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 34vw, 279.984375px"
+                        srcset="https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788603a99306802b4cb5c_Concept%20Project%20-%201-p-500.jpeg 500w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788603a99306802b4cb5c_Concept%20Project%20-%201-p-800.jpeg 800w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788603a99306802b4cb5c_Concept%20Project%20-%201-p-1080.jpeg 1080w, https://uploads-ssl.webflow.com/6040b20ee5059bede58b3285/604788603a99306802b4cb5c_Concept%20Project%20-%201.jpg 1600w"
+                        alt="" class="image-7" /></div>
+            </div>
+        </div>
+    </div>
+    <div class="section-4">
+        <div class="container-3 w-container">
+            <div class="w-row">
+                <div class="column-17 w-col w-col-4">
+                    <h1 class="heading-3">Experiencia</h1>
+                </div>
+                <div class="column-3 w-col w-col-4"></div>
+                <div class="column-4 w-col w-col-4"></div>
+            </div>
+            <div class="w-row">
+                <div class="column-5 w-col w-col-4">
+                    <p class="paragraph-3">Asesora de imagen</p>
+                    <p class="paragraph-3">Caracterizadora</p>
+                    <p class="paragraph-4">Marzo 21 —Pasarela</p>
+                </div>
+                <div class="column-6 w-col w-col-4">
+                    <p class="paragraph-3">Cortometrajes</p>
+                    <p class="paragraph-3">Canal Sur</p>
+                    <p class="paragraph-4">Abril 2020 — Marzo 21</p>
+                </div>
+                <div class="column-7 w-col w-col-4">
+                    <p class="paragraph-3">Relaciones publicas</p>
+                    <p class="paragraph-3">Vodafone</p>
+                    <p class="paragraph-4">Junio 2020 — Marzo 20</p>
+                </div>
+            </div>
+            <div class="w-row">
+                <div class="column-8 w-col w-col-4">
+                    <p class="paragraph-3">Fotografia</p>
+                    <p class="paragraph-3">Maquilladora Fotos</p>
+                    <p class="paragraph-4">Marzo 20 — Junio 20</p>
+                </div>
+                <div class="column-9 w-col w-col-4">
+                    <p class="paragraph-3">Estilismo</p>
+                    <p class="paragraph-3">Corto Motivos &amp; Figurante</p>
+                    <p class="paragraph-4">Marzo 21 — Noviembre</p>
+                </div>
+                <div class="column-16 w-col w-col-4"></div>
+            </div>
+        </div>
+    </div>
+    <div class="section-6">
+        <div class="container-5 w-container">
+            <div class="w-form">
+                <form id="email-form" name="email-form" data-name="Email Form" class="form">
+                    <h1 class="heading-3">Formulario </h1>
+                    <p class="paragraph-5">Enviame detalle</p><label for="name" class="body">Nombre</label><input
+                        type="text" class="text-field w-input" maxlength="256" name="name" data-name="Name"
+                        id="name" /><label for="email" class="field-label">Correo electronico</label><input type="email"
+                        class="text-field-2 w-input" maxlength="256" name="email" data-name="Email" id="email"
+                        required="" /><label for="email-2" class="field-label-2">Detalle</label><textarea name="field"
+                        maxlength="5000" id="field" class="textarea w-input"></textarea><input type="submit"
+                        value="enviar" data-wait="Please wait..." class="button w-button" />
+                </form>
+                <div class="w-form-done">
+                    <div>Thank you! Your submission has been received!</div>
+                </div>
+                <div class="w-form-fail">
+                    <div>Oops! Something went wrong while submitting the form.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section-5">
+        <div class="container-6 w-container">
+            <div class="footer-wrap">
+                <div>
+                    <a href="https://webflow.com/" target="_blank" class="webflow-link w-inline-block">
+                        <div class="paragraph-tiny">Made ❤️ in Sevilla</div>
+                    </a>
+                </div>
+                <div class="footer-links"><a href="https://www.linkedin.com/in/metehankaya/" target="_blank"
+                        class="button-footer">LinkedIn</a><a href="https://dribbble.com/metehankaya" target="_blank"
+                        class="button-footer">Dribbble</a><a href="https://twitter.com/metehankaya0" target="_blank"
+                        class="button-footer">Twitter</a><a href="https://www.instagram.com/ui.mete/" target="_blank"
+                        class="button-footer">Instagram</a></div>
+            </div>
+        </div>
+    </div>
+    <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+</body>
+
+</html>
